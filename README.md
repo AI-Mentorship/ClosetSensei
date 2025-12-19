@@ -1,9 +1,5 @@
 # Closet Sensei 👔✨
 
-An AI-powered wardrobe assistant that helps you discover perfect outfit combinations from your existing closet using advanced computer vision and machine learning.
-
-## 🎯 Overview
-
 Closet Sensei leverages deep learning to analyze your clothing items and generate intelligent outfit recommendations based on style compatibility, occasion, weather, and personal preferences. Built with React Native for seamless cross-platform experience and powered by ResNet50 for accurate clothing classification.
 
 ## ✨ Features
